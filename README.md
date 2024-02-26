@@ -68,11 +68,11 @@ D F <BR>
 G F <BR>
 F H <BR>
 <hr>
-'''
+```
 Depth First Search uses STACK AND RECURSION
 Developed by: P PARTHIBAN
 Register number: 212223230145
-'''
+
 #import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -95,6 +95,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
+```
 <h3>Sample Output</h3>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
@@ -111,11 +112,11 @@ print(traversedpath)
 2 3 <BR>
 2 4 <BR>
 <hr>
-'''
+```
 Depth First Search uses STACK AND RECURSION
 Developed by: P PARTHIBAN
 Register number: 212223230145
-'''
+
 #import defaultdict
 from collections import defaultdict
 def dfs(graph,start,visited,path):
@@ -138,6 +139,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
+```
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']

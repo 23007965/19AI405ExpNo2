@@ -68,7 +68,10 @@ D F <BR>
 G F <BR>
 F H <BR>
 <hr>
-'''Depth First Search uses STACK AND RECURSION
+'''
+Depth First Search uses STACK AND RECURSION
+Developed by: P PARTHIBAN
+Register number: 212223230145
 '''
 #import defaultdict
 from collections import defaultdict
@@ -108,7 +111,10 @@ print(traversedpath)
 2 3 <BR>
 2 4 <BR>
 <hr>
-'''Depth First Search uses STACK AND RECURSION
+'''
+Depth First Search uses STACK AND RECURSION
+Developed by: P PARTHIBAN
+Register number: 212223230145
 '''
 #import defaultdict
 from collections import defaultdict

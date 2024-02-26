@@ -68,7 +68,7 @@ D F <BR>
 G F <BR>
 F H <BR>
 <hr>
-```
+<hr>
 Depth First Search uses STACK AND RECURSION
 Developed by: P PARTHIBAN
 Register number: 212223230145
@@ -95,7 +95,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-```
+<hr>
 <h3>Sample Output</h3>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
@@ -112,7 +112,7 @@ print(traversedpath)
 2 3 <BR>
 2 4 <BR>
 <hr>
-```
+<hr>
 Depth First Search uses STACK AND RECURSION
 Developed by: P PARTHIBAN
 Register number: 212223230145
@@ -139,7 +139,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-```
+<hr>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
